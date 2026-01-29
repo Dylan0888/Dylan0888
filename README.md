@@ -40,7 +40,7 @@
 
 ### Cloud & Certifications
 
-![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-de9116?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
