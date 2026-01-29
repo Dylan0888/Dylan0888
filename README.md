@@ -1,8 +1,9 @@
-## Hi there 👋
+## About Me
+I’m a Computer Science graduate from Liverpool John Moores University with additional training in front-end and cloud web development through IT Online Learning. I focus on building modern, responsive, and visually polished web applications using JavaScript/TypeScript, React, Tailwind CSS, and frontend libraries such as daisyUI.
 
+I enjoy turning ideas into clean, user-focused interfaces and working with APIs to create dynamic, data-driven experiences. Alongside my frontend skillset, I have a strong Python background with experience in AI, machine learning, and GUI development, which gives me a well-rounded problem-solving approach.
 
-
-
+Calm, adaptable, and detail-oriented, I’m actively seeking a junior or graduate developer role where I can grow within a JavaScript/React tech stack while continuing to build real-world projects.
 
 
 ### Programming Languages
@@ -59,24 +60,12 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
+### Featured Projects 
+
 ### Contact Me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-jones-365aa2230/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100005681373138)
 [![Instagram](https://img.shields.io/badge/Instagram-ae26c9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dolan_jones08/)
 
+### Learning Goals
 
-
-<!--
-**Dylan0888/Dylan0888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
