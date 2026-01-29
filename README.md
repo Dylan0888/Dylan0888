@@ -49,7 +49,7 @@
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1E90FF?style=for-the-badge)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-e81eb6?style=for-the-badge)
 ![Pygame](https://img.shields.io/badge/Pygame-00A300?style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
