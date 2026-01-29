@@ -12,12 +12,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)
 
-![divider](https://img.shields.io/badge/-_-blue?style=for-the-badge)
-![divider](https://img.shields.io/badge/-_-blue?style=for-the-badge)
-![divider](https://img.shields.io/badge/-_-blue?style=for-the-badge)
-![divider](https://img.shields.io/badge/-_-blue?style=for-the-badge)
-
-
+<hr style="border: 1px solid red;">
 
 ### Web & Frameworks
 
@@ -28,7 +23,6 @@
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![daisyUI](https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-
 
 
 ---
