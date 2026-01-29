@@ -5,17 +5,25 @@
 
 
 
-<h3>Programming Languages</h3>
+### Programming Languages
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)
 
-h3>Web & Framewroks</h3>
+---
 
-<h3>Version Control & Development Tools </h3>
+### Web & Frameworks
 
-<h3>Operating Systems</h3>
+---
+
+### Version Control & Development Tools
+
+---
+
+### Operating Systems
+
 
 
 <!--
