@@ -13,8 +13,10 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)
 
 ![divider](https://img.shields.io/badge/-_-blue?style=for-the-badge)
+![divider](https://img.shields.io/badge/-_-blue?style=for-the-badge)
+![divider](https://img.shields.io/badge/-_-blue?style=for-the-badge)
+![divider](https://img.shields.io/badge/-_-blue?style=for-the-badge)
 
-![divider](https://img.shields.io/badge/‎-‎-‎-005571?style=flat)
 
 
 ### Web & Frameworks
