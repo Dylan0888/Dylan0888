@@ -51,7 +51,7 @@
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-e81eb6?style=for-the-badge)
 ![Pygame](https://img.shields.io/badge/Pygame-00A300?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-f21133?style=for-the-badge)
 
 ---
 
