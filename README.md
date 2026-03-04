@@ -5,15 +5,6 @@ I enjoy turning ideas into clean, user-focused interfaces and working with APIs 
 
 Calm, adaptable, and detail-oriented, I’m actively seeking a junior or graduate developer role where I can grow within a JavaScript/React tech stack while continuing to build real-world projects.
 
-### Learning Goals
-
-- Build more detailed and complex frontend web applications with a strong focus on performance, accessibility, and user experience.
-- Expand my backend knowledge to become a full-stack developer, integrating APIs, databases, and server-side logic into my projects.
-- Incorporate cloud technologies to deploy, scale, and manage applications using modern cloud platforms.
-- Use my knowledge of the Cloud and AI to incorporate into projects where they add real value, such as data-driven insights and intelligent user interactions.
-- Grow through hands-on development, real-world projects, and collaboration with other developers.
-
-
 ### Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -73,5 +64,15 @@ Calm, adaptable, and detail-oriented, I’m actively seeking a junior or graduat
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/447462901378)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100005681373138)
 [![Instagram](https://img.shields.io/badge/Instagram-ae26c9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dolan_jones08/)
+
+### Learning Goals
+
+- Build more detailed and complex frontend web applications with a strong focus on performance, accessibility, and user experience.
+- Expand my backend knowledge to become a full-stack developer, integrating APIs, databases, and server-side logic into my projects.
+- Incorporate cloud technologies to deploy, scale, and manage applications using modern cloud platforms.
+- Use my knowledge of the Cloud and AI to incorporate into projects where they add real value, such as data-driven insights and intelligent user interactions.
+- Grow through hands-on development, real-world projects, and collaboration with other developers.
+
+
 
 
